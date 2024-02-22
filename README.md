@@ -15,7 +15,7 @@
 
 **Web Applications:**  [Live Chat](https://github.com/viral32111/LiveChat), [Degree Progression Dashboard](https://github.com/viral32111/degree-progression-dashboard), [Personal Website](https://github.com/viral32111/website), [Social Media](https://github.com/viral32111/social-media).
 
-**Mobile Applications:** [Server Monitor](https://github.com/viral32111/LiveChat), [Location Sharing](https://github.com/viral32111/location-sharing), [Partner Poker](https://github.com/viral32111/PartnerPoker), [Component Price Calculator](https://github.com/viral32111/component-price-calculator), [Noughts & Crosses](https://github.com/viral32111/noughts-and-crosses).
+**Mobile Applications:** [Server Monitor](https://github.com/viral32111/ServerMonitor), [Location Sharing](https://github.com/viral32111/location-sharing), [Partner Poker](https://github.com/viral32111/PartnerPoker), [Component Price Calculator](https://github.com/viral32111/component-price-calculator), [Noughts & Crosses](https://github.com/viral32111/noughts-and-crosses).
 
 **Games:** [Top Down Shooter](https://github.com/viral32111/top-down-shooter), [Idle Clicker](https://github.com/viral32111/clicker), [Space Invaders](https://github.com/viral32111/space-invaders), [Fruit Machine](https://github.com/viral32111/fruit-machine), [Hit The Mole](https://github.com/viral32111/hit-the-mole).
 
