@@ -1,12 +1,3 @@
-<hr>
-
-<img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=viral32111&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&hide_border=true&hide_title=true&bg_color=00000000&cache_seconds=86400">
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viral32111&hide_border=true&hide_title=true&bg_color=00000000&text_color=3498db&langs_count=10&layout=compact&exclude_repo=gm_uuid&cache_seconds=86400&hide=c%2B%2B,c,objective-c,m4,cmake,shaderlab,dockerfile">
-
-<br><br><br><br><br><br><br><br><br><hr>
-
-## Quick Access
-
 **Minecraft Mods:** [Progression](https://github.com/viral32111/progression), [Bed Teleport](https://github.com/viral32111/bed-teleport), [Discord Relay](https://github.com/viral32111/discord-relay), [Ask AI](https://github.com/viral32111/ask-ai), [Database](https://github.com/viral32111/database), [Events](https://github.com/viral32111/events), [Library](https://github.com/viral32111/library).
 
 **Minecraft Plugins:** [MOTD](https://github.com/viral32111/motd), [Chat](https://github.com/viral32111/chat).
